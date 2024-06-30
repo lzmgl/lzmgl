@@ -12,7 +12,7 @@
 
 <p>
   👋&nbsp; Hi there! 
-  portfolio : https://www.notion.so/32c502feede34200b6b228f497e31e55
+  portfolio : <!-- https://www.notion.so/32c502feede34200b6b228f497e31e55 -->
   <!--I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   I have experience 7 years of Android development and 2 years of iOS development.<br/>
   At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
